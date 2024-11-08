@@ -1,6 +1,6 @@
-# 🚀 GitHub Issues to Slack Notification & Resolve Actions Pipeline
+# 🚀 GitHub Issues to Slack Notification Pipeline
 
-Streamline your team's workflow and improve issue resolution with this automated pipeline. This pipeline continuously monitors GitHub for issues tagged as "bug" 🐞 or "enhancement" ⚙️, sends alerts to a Slack channel with detailed issue information, and even generates an AI-based response with potential solutions. By integrating GitHub, Slack, and Cohere AI, your team can stay informed and resolve issues faster and more efficiently.
+Streamline your team's workflow and improve issue resolution with this automated pipeline. This pipeline continuously monitors GitHub for issues tagged as "bug" 🐞 or "enhancement" ⚙️, sends alerts to a Slack channel with detailed issue information, and generates an AI-based response with potential solutions. By integrating GitHub, Slack, and Cohere AI, your team can stay informed and resolve issues faster and more efficiently.
 
 ## 📄 Pipeline Overview
 1. **Monitor GitHub**: Keep track of issues labeled as "bug" or "enhancement" in your repository.
@@ -38,7 +38,20 @@ Check out the visual representation of this workflow:
 | <img src="https://github.com/user-attachments/assets/d8b4a7e4-3e33-4c34-b7f0-6b59b6005c58" width="500" /> | <img src="https://github.com/user-attachments/assets/3e059613-cc90-4a8f-a071-91a73e17227c" width="500" /> |
 |:----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
 
+### 🌐 Live Demo Playground
+Explore and test this pipeline in the Instill AI demo playground:
+[**GitHub Issues to Slack Pipeline Demo**](https://instill.tech/su-shubham/pipelines/github-issue-to-slack/playground)
 
+## 🔗 Why Use Instill AI?
+- **Comprehensive Integration**: Easily integrate various data sources and applications like GitHub and Slack into a seamless pipeline.
+- **AI-Powered Automation**: Leverage AI capabilities to generate intelligent responses, speeding up your workflow.
+- **User-Friendly Platform**: Instill AI offers an intuitive interface and pre-built components that make building and managing pipelines a breeze.
+- **Scalable Solutions**: Whether you’re a small team or a large enterprise, Instill AI scales to fit your needs.
+
+**Learn more about how Instill AI can transform your workflows:**
+- [Instill AI Home](https://instill.tech)
+- [Instill AI Documentation](https://docs.instill.tech)
+- [Instill AI Community](https://community.instill.tech)
 
 ## 📦 Variables
 
